@@ -39,13 +39,5 @@ sonuc = sayı1+sayı2+sayı3+sayı4+sayı5+sayı6+sayı7+sayı8
 print(sayı1,"tane a",sayı2,"tane e",sayı3,"tane i",sayı4,"tane ı",sayı5,"tane o",sayı6,"tane ö",sayı7,"tane u",sayı8,"tane ü","harfi vardı.")
 
 
-
-
-
-
-
-        
-        
-        
-
+print("temph9-commit-1")
 
