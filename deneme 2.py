@@ -40,4 +40,5 @@ print(sayı1,"tane a",sayı2,"tane e",sayı3,"tane i",sayı4,"tane ı",sayı5,"t
 
 
 print("temph9-commit-1")
+print("temph9; t-branch1; commit-1")
 
